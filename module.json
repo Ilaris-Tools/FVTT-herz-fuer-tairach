@@ -1,0 +1,28 @@
+{
+  "id": "herz-fuer-tairach",
+  "title": "Ein Herz für Tairach - Ein Abenteuer für Ilaris",
+  "description": "Dieses Modul enthält Karten, NSCs und Journal-Einträge für den Siegerbeitrag des ersten Ilaris-Abenteuerwettbewerbs. Das Abenteuer in seiner originalen Fassung von Tilmann Kirchner ist kostenlos als PDF erhältlich: https://dsaforum.de/app.php/dlext/?view=detail&df_id=416.",
+  "authors": [
+    {
+      "name": "Lukas Ruhe"
+    },
+    {
+      "name": "Tilmann Kirchner"
+    }
+  ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "system": ["Ilaris"],
+  "packs": [
+    {
+      "name": "pack-name",
+      "label": "Pack Title",
+      "system": "system-id",
+      "path": "./packs/pack-name.db",
+      "type": "Item"
+    }
+  ]
+}
